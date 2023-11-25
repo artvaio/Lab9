@@ -7,5 +7,6 @@ int main()
     std::cin>>first;
     std::cout<<"Enter the second num:"<<endl;
     std::cin>>second;
+    std::cout<<"Sum = "<<first + second<<endl;
     return 0;
 }

@@ -1,5 +1,6 @@
 #include "sdt.h"
 
+//Это учебный пример
 int main()
 {
     int first, second;

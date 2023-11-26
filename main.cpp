@@ -8,5 +8,6 @@ int main()
     std::cout<<"Enter the second num:"<<endl;
     std::cin>>second;
     std::cout<<"Sum = "<<first + second<<endl;
+    std::cout<<"Diff = "<<first - second<<endl;
     return 0;
 }

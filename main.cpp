@@ -9,6 +9,7 @@ int main()
     std::cin>>second;
     std::cout<<"Sum = "<<first + second<<endl;
     std::cout<<"Diff = "<<first - second<<endl;
+    std::cout<<"Mult = "<<first * second<<endl;
     std::cout<<"Div = "<<first / second<<endl;
     return 0;
 }
